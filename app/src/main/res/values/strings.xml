@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IfoodUi</string>
+    <string name="restaurants">Restaurantes</string>
+    <string name="marketplaces">Mercados</string>
+    <string name="drinks">Bebidas</string>
+    <string name="dotted">&#8226;</string>
+    <string name="famous">Famosos no Ifood</string>
+    <string name="see_more">Ver mais</string>
+    <string name="shop_category">\u2022 %1$s \u2022 %2$.1f km</string>
+    <string name="shop_price">%1$s min \u2022 R$ %2$.1f</string>
+    <string name="shops">Lojas</string>
+    <string name="explore_more">Explore mais com a conta do Ifood</string>
+    <string name="enter">Entrar ou cadastrar-se</string>
+</resources>

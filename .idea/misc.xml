@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/IfoodUi/app/src/main/res/drawable/ic_baseline_directions_walk_24.xml" value="0.178" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/IfoodUi/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.186" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/IfoodUi/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_black_24.xml" value="0.186" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/IfoodUi/app/src/main/res/font/sulsans.xml" value="0.309375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/IfoodUi/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/IfoodUi/app/src/main/res/layout/banner_item.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/IfoodUi/app/src/main/res/layout/category_item.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/IfoodUi/app/src/main/res/layout/chip_choice.xml" value="0.1765625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/IfoodUi/app/src/main/res/layout/fragment_restaurants.xml" value="0.1765625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/IfoodUi/app/src/main/res/layout/more_shop.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/IfoodUi/app/src/main/res/layout/shop_item.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
